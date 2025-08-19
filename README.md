@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azra İrem Derin</h1>
 <h3 align="center">A passionate student developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Python, C++ and C#**
+- 🌱 I’m currently learning **Python and C++**
 
 - 📫 How to reach me **derinazrairem@gmail.com**
 

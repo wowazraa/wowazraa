@@ -58,7 +58,7 @@ azra = {
 ## Featured Projects
 
 ### 🏥 MEDIQUEUE — AI Health Tourism Platform
-> *Hackathon · 2025 — 🥇 1st Place + Patent Award*
+> *Hackathon · 2026 — 🥇 1st Place + Patent Award*
 
 An intelligent clinic management and patient-matching platform targeting Turkey's international health tourism market. Built with an ML-powered matching module that connects international patients with appropriate clinics based on treatment type, budget, and availability.
 

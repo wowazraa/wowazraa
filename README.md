@@ -39,7 +39,6 @@ azra = {
 ![HTML](https://img.shields.io/badge/HTML-0f2027?style=for-the-badge&logo=html5&logoColor=F97316)
 ![CSS](https://img.shields.io/badge/CSS-0f2027?style=for-the-badge&logo=css3&logoColor=38BDF8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f2027?style=for-the-badge&logo=javascript&logoColor=F5D060)
-![Dart](https://img.shields.io/badge/Dart-0f2027?style=for-the-badge&logo=dart&logoColor=38BDF8)
 
 **ML / AI**
 
@@ -100,12 +99,6 @@ A low-level RISC-V instruction decoder supporting R, I, S, B, U, and J-type inst
 ---
 
 ## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wowazraa&theme=github_dark" />
-
-</div>
 
 <div align="center">
 
